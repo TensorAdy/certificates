@@ -10,3 +10,10 @@ Application of Deep Learning to real-world scenarios such as object recognition 
 image and video processing, text analytics, Natural Language Processing, recommender systems, and other types of classifiers.
 Master Deep Learning at scale with accelerated hardware and GPUs.
 
+### Courses :
+* Deep Learning Fundamentals with Keras
+* Deep Learning with Tensorflow
+* Using GPUs to Scale and Speed-up Deep Learning
+* Deep Learning with Python and PyTorch
+* Applied Deep Learning Capstone Project
+
